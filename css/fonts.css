@@ -1,0 +1,15 @@
+@font-face{
+font-family: 'YandexSansDisplay-Regular', sans-serif;
+src: url('..fonts/YandexSansDisplay/YandexSansDisplay-Regular.woff2') format('woff2'), 
+	 url('..fonts/YandexSansDisplay/YandexSansDisplay-Regular.woff') format('woff');
+}
+@font-face{
+font-family: 'YandexSansDisplay-Light', sans-serif;
+src: url('..fonts/YandexSansDisplay/YandexSansDisplay-Light.woff2') format('woff2'), 
+	 url('..fonts/YandexSansDisplay/YandexSansDisplay-Light.woff') format('woff');
+}
+@font-face{
+font-family: 'YandexSansDisplay-Bold', sans-serif;
+src: url('..fonts/YandexSansDisplay/YandexSansDisplay-Bold.woff2') format('woff2'), 
+	 url('..fonts/YandexSansDisplay/YandexSansDisplay-Bold.woff') format('woff');
+}
